@@ -48,7 +48,8 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """
-\033[1;91m       ♦♦♦_______________________________♦♦♦
+\033[1;91m       ♦♦♦———————————————————————————————♦♦♦
+"""
 
 
 ████████████████████████████████████████
@@ -56,10 +57,10 @@ logo = """
 ██─█▄█─███─▀─███─█▄▀─███▀▄█▀█─██─██─▄─▄█
 ▀▄▄▄▀▄▄▄▀▄▄▀▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▀▄▄▀
 
-\033[1;93mFacebook\033[1;93m  :❥•❥•❥•❥• \033[1;93mMuhammadzakria
-\033[1;93mWhatsapp\033[1;93m  :❥•❥•❥•❥• \033[1;93m+1(786)7663709
+\033[1;93mFacebook\033[1;93m  :❥•❥•❥•❥• \033[1;93mManzoor hussain
+\033[1;93mWhatsapp\033[1;93m  :❥•❥•❥•❥• \033[1;93m+923053003833
                                
-\033[1;96m                    Zakria Updated 0.5            
+\033[1;96m                    MANZOOR Updated 0.5            
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -81,7 +82,7 @@ os.system("clear")
 print  """
 
 """
-jalan("\033[1;97m•◈•───────•◈ SUBSCRIBE MY YOUTUBE CHANNEL•◈•───────•◈•")  
+jalan("\033[1;97m•◈•───────•◈ FARAZ IS HERE 009 TRICKER •◈•───────•◈•")  
 
 
 jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
@@ -112,10 +113,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/channel/UCcuHDVJ9bPUWaTjZA_jpJ3Q')
+            os.system('xdg-open https://www.Youtube.com')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/channel/UCcuHDVJ9bPUWaTjZA_jpJ3Q')
+        os.system('xdg-open https://www.Youtube.com')
 
 def login():
 	os.system('clear')
